@@ -11,4 +11,3 @@ To run the servlet on a local server, I used Apache Tomcat. Follow the steps bel
 4. Open a web browser and navigate to http://localhost:8080/time/ to see the current UTC date and time.
 5. If you need to know date and time in a different timezone, you can pass the timezone as a query parameter. 
 For example, to get the date and time in New York, use the URL: http://localhost:8080/time/?timezone=UTC+2
-6. 
